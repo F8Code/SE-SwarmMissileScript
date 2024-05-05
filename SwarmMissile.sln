@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwarmMissile", "SwarmMissile\SwarmMissile.csproj", "{EE82ABC7-A4AF-4B36-9CB4-87A513EF5A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE82ABC7-A4AF-4B36-9CB4-87A513EF5A1A}.Debug|x64.ActiveCfg = Debug|x64
+		{EE82ABC7-A4AF-4B36-9CB4-87A513EF5A1A}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF7F9C3-21E2-4445-A4F2-81026B092AEB}
+	EndGlobalSection
+EndGlobal
