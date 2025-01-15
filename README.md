@@ -4,3 +4,7 @@ You can kind of look at it as the jerycho missile from the movie 'Iron Man'. I'v
 Despite lot's of work, I've decided to abandon the project, as after initial tests I've found out that the idea of using missile clusters is simply way less effective then using bomb clusters and requires a way bigger programming workload. <br />
 You can check out a short post on this missile that I've made on reddit: <br />
 https://www.reddit.com/r/spaceengineers/comments/1bdcczp/wip_swarm_missile_48_cluster_submissiles/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+![Demo](swarm1.gif)
+![Demo](swarm2.gif)
+![Demo](swarm3.gif)
+![Demo](swarm4.gif)
